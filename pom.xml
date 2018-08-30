@@ -58,6 +58,7 @@
                 </executions>
       </plugin>
     </plugins>
+     <finalName>maven-simple</finalName>
   </build>
 
 </project>
